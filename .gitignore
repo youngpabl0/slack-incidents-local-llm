@@ -1,0 +1,5 @@
+# Slack exports and model answers are internal company data: never commit them
+slack-export/
+*.jsonl
+*.gguf
+__pycache__/
